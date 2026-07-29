@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Chandan Anuth 👋</h1>
-<h3 align="center">Enterprise Infrastructure & Cloud Professional | 17+ Years</h3>
+<h3 align="center">Enterprise Infrastructure & Cloud Professional</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=900&lines=AWS+%7C+Azure+%7C+Terraform+%7C+PowerShell;Hyper-V+%7C+VMware+%7C+Windows+Server;Active+Directory+%7C+DNS+%7C+DHCP+%7C+Group+Policy;Automation+%7C+Security+%7C+Disaster+Recovery;Always+Building.+Always+Learning.+Always+Improving." alt="Typing SVG"/>
