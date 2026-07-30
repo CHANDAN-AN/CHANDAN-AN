@@ -18,26 +18,20 @@
 
 I'm an infrastructure and cloud professional across MSP and enterprise environments, designing, deploying, securing, and modernizing systems that businesses actually depend on. My work spans the full lifecycle, architecture and deployment through troubleshooting, disaster recovery, and day to day operations.
 
-I run a fully documented **Enterprise Infrastructure Laboratory** where I build, break, and validate production-inspired environments before any of it touches a client system.
+I run a fully documented **Enterprise Infrastructure Lab / Server** where I build, break, and validate production-inspired environments before any of it touches a client system.
 
 > Build it → Validate it → Break it → Fix it → Document it
 
 ---
+<p align="center">
+  <a href="https://github.com/CHANDAN-AN/Professional-Portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-38BDF8?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 
-### 🚀 Featured Projects
-
-| Project | Technologies | Business Value |
-|---|---|---|
-| ☁️ **AWS Cloud Cost Optimization & Licensing Rebuild** | AWS, EC2, Licensing | **20-30% cost reduction**, zero downtime rebuild on live production |
-| 🔄 **Disaster Recovery Migration** | AWS, Windows Server, DR | Solo migration under time pressure, zero data loss, no existing documentation to start from |
-| 🔒 **Infrastructure Security Hardening** | Windows Server, AD, Security Baselines | Closed highest-risk vulnerability findings first, zero production disruption |
-| ⚡ **PowerShell Infrastructure Automation** | PowerShell, Windows Server | Automated repetitive deployment tasks, standardized rollouts |
-| 🔑 **Enterprise Identity & SSO** | Identity Federation, Entra ID, SSO | Federated multiple entities across time zones and vendors over 11 months |
-| 👥 **Technical Leadership & Mentoring** | Documentation, Operations | Hired and mentored engineers, several still with the company years later |
-| 📈 **Service Delivery & Process Redesign** | Process Design, IT Operations | Redesigned onboarding and service catalog, reduced rework and renewal disputes |
-| 🏗 **Enterprise Infrastructure Laboratory** | Hyper-V, AD, DNS, DHCP, GPO, PowerShell | Full production-inspired environment, built and documented from the ground up |
-
-📄 Full write-ups (challenge, approach, result) available in my portfolio, ask me for a walkthrough.
+  <a href="https://github.com/CHANDAN-AN?tab=repositories">
+    <img src="https://img.shields.io/badge/Projects-24292F?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
@@ -63,35 +57,6 @@ I run a fully documented **Enterprise Infrastructure Laboratory** where I build,
 
 ---
 
-### 🏗 Enterprise Infrastructure Laboratory
-
-A continuously evolving environment where I design, deploy, validate, secure, and document enterprise infrastructure the same way I would in a real production environment, not just installing random technologies for the sake of it.
-
-<details>
-<summary><b>View lab technology breakdown</b></summary>
-<br>
-
-| Infrastructure | Services | Security | Automation |
-|---|---|---|---|
-| Hyper-V | Active Directory Domain Services | Sophos Firewall | PowerShell |
-| Windows Server 2022 | DNS | Security Groups | PowerShell Remoting |
-| Windows 11 Enterprise | DHCP | Administrative Tiering | Infrastructure Automation |
-| Ubuntu Server | Group Policy | Least Privilege | Documentation |
-| Enterprise Networking | Organizational Units | Access Control | Validation & Testing |
-| Virtual Switches | Remote Administration | Security Hardening | Best Practices |
-
-Every deployment includes implementation guides, PowerShell commands, validation steps, and troubleshooting notes.
-
-</details>
-
-<p align="center">
-  <a href="https://github.com/CHANDAN-AN/Enterprise-Infrastructure-LAB">
-    <img src="https://img.shields.io/badge/View-Enterprise_Infrastructure_Laboratory-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
----
-
 <details>
 <summary><b>🏆 Certifications & Full Skill List</b></summary>
 <br>
@@ -102,7 +67,7 @@ Every deployment includes implementation guides, PowerShell commands, validation
 - ITIL Foundation
 
 **Additional Expertise**
-Active Directory Domain Services, OU Design, Administrative Tiering, Security Groups, GPO, DNS & DHCP Administration, Windows Server Administration, Windows 11 Enterprise Deployment, Hybrid Infrastructure, Hyper-V, VMware vSphere, Infrastructure Automation, PowerShell Scripting, Terraform, Linux Administration, Network Troubleshooting, Enterprise Networking, Security Hardening, Disaster Recovery, Technical Documentation, Infrastructure Monitoring, Technical Leadership, IT Operations, Change Management
+Active Directory Domain Services, OU Design, Administrative Tiering, Security Groups, GPO, DNS & DHCP Administration, Windows Server Administration, Windows 11 Enterprise Deployment, Hybrid Infrastructure, Hyper-V, VMware vSphere, Infrastructure Automation, PowerShell Scripting, Terraform, Linux Administration, Network Troubleshooting, Enterprise Networking, Cloud Security Hardening, Disaster Recovery, Technical Documentation, Infrastructure Monitoring, Technical Leadership, IT Operations, Change Management
 
 </details>
 
