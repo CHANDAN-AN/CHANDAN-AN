@@ -1,6 +1,13 @@
 ![](https://komarev.com/ghpvc/?username=CHANDAN-AN&style=for-the-badge)
 <h1 align="center">Hi, I'm Chandan Anuth 👋</h1>
-<h1 align="center">Bilingual - English & French (Native) 👋</h1>
+<h2 align="center">
+  <img src="https://flagcdn.com/32x24/mu.png" width="32" alt="Mauritius">
+  Bilingual | English
+  <img src="https://flagcdn.com/32x24/gb.png" width="32" alt="United Kingdom">
+  | French
+  <img src="https://flagcdn.com/32x24/fr.png" width="32" alt="France">
+  | Native Proficiency
+</h2>
 <h3 align="center">Enterprise Infrastructure & Cloud Professional</h3>
 
 <p align="center">
