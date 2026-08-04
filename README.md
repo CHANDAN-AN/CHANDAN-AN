@@ -1,5 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=CHANDAN-AN&style=for-the-badge)
-<h1 align="center">Hi, I'm Chandan Anuth 👋</h1>
+<h1 align="center">Hi, I'm Chandan Anuth & fully bilingual too 👋</h1>
 <h3 align="center">Enterprise Infrastructure & Cloud Professional</h3>
 
 <p align="center">
