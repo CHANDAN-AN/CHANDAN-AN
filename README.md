@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm Chandan Anuth 👋</h1>
 <h2 align="center">
   <img src="https://flagcdn.com/32x24/mu.png" width="32" alt="Mauritius">
-  Bilingual | English
+  Bilingual - English
   <img src="https://flagcdn.com/32x24/gb.png" width="32" alt="United Kingdom">
   | French
   <img src="https://flagcdn.com/32x24/fr.png" width="32" alt="France">
