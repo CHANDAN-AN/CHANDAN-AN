@@ -33,14 +33,13 @@ I run a fully documented **Enterprise Infrastructure Lab / Server** where I buil
 ---
 
 <p align="center">
-  <span style="font-size:30px;">👉</span>
   <a href="https://github.com/CHANDAN-AN/Professional-Portfolio">
-    <img src="https://img.shields.io/badge/Portfolio-38BDF8?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/🌐%20View%20My%20Professional%20Portfolio-38BDF8?style=for-the-badge"/>
   </a>
+  <br><br>
   <a href="https://github.com/CHANDAN-AN?tab=repositories">
-    <img src="https://img.shields.io/badge/Projects-24292F?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/⚙️%20Explore%20My%20Technical%20Projects-24292F?style=for-the-badge"/>
   </a>
-  <span style="font-size:30px;">👈</span>
 </p>
 
 ---
