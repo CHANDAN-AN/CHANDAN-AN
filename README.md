@@ -24,7 +24,7 @@
 
 ### 👨‍💻 About Me
 
-I'm an infrastructure and cloud professional across MSP and enterprise environments, designing, deploying, securing, and modernizing systems that businesses actually depend on. My work spans the full lifecycle, architecture and deployment through troubleshooting, disaster recovery, and day to day operations.
+I'm an infrastructure / systems and cloud professional across MSP and enterprise environments, designing, deploying, securing, and modernizing systems that businesses actually depend on. My work spans the full lifecycle, architecture and deployment through troubleshooting, disaster recovery, and day to day operations.
 
 I run a fully documented **Enterprise Infrastructure Lab / Server** where I build, break, and validate production-inspired environments before any of it touches a client system.
 
