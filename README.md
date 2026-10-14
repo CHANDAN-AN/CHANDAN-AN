@@ -1,6 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=CHANDAN-AN&style=for-the-badge)
 <h1 align="center">Hi, I'm Chandan Anuth 👋</h1>
 <h2 align="center">
+  <img src="https://flagcdn.com/32x24/ca.png" width="32" alt="Canada">
   <img src="https://flagcdn.com/32x24/mu.png" width="32" alt="Mauritius">
   Bilingual - English
   <img src="https://flagcdn.com/32x24/gb.png" width="32" alt="United Kingdom">
